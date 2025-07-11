@@ -109,9 +109,9 @@ All REST APIs have been tested in Postman with authentication headers and payloa
 
 ---
 
-## ✅ Steps Completed
+## ✅ Tasks Completed
 
-| #  | Task Name                               | Description                                                               |
+| No.| Task Name                               | Description                                                               |
 |----|-----------------------------------------|---------------------------------------------------------------------------|
 | 1  | Alpha Testing                           | Final phase execution and QA validation.                                  |
 | 2  | API Testing in Postman                  | All endpoints tested for success, failure, auth, and validations.         |
