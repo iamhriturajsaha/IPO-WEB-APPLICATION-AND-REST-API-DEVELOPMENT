@@ -34,7 +34,7 @@ This solution is suitable for integration into stock market platforms, IPO track
 
 - Standalone module for displaying upcoming IPOs.
 - Uses REST API to fetch data dynamically.
-- Displays IPOs in a card/grid layout with:
+- Displays IPOs in a card/grid layout with -
   - Company Name
   - Price Band
   - IPO Open/Close Dates
@@ -49,7 +49,7 @@ This solution is suitable for integration into stock market platforms, IPO track
 ### 🔶 2. IPO Admin Dashboard
 
 - Admin login with static form validation + JWT token.
-- CRUD operations on IPO data:
+- CRUD operations on IPO data -
   - Add new IPO
   - Edit existing IPO
   - Delete IPO
@@ -65,7 +65,7 @@ This solution is suitable for integration into stock market platforms, IPO track
 - JWT token-based authentication.
 - PostgreSQL database integration with schema & seed data.
 - API documentation and testing done via Postman.
-- Handles:
+- Handles -
   - User login & token issuance
   - IPO data CRUD
   - Validation, error handling & auth middleware
@@ -101,7 +101,7 @@ All REST APIs have been tested in Postman with authentication headers and payloa
 
 - Admin login generates token.
 - CRUD endpoints tested with valid/invalid tokens.
-- Backend handles:
+- Backend handles -
   - Validation errors (400)
   - Unauthorized access (401)
   - Success responses (200/201)
