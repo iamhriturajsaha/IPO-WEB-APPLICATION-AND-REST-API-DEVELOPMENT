@@ -1,4 +1,0 @@
-My filter=lfs diff=lfs merge=lfs -text
-Env filter=lfs diff=lfs merge=lfs -text
-Files filter=lfs diff=lfs merge=lfs -text
-Static filter=lfs diff=lfs merge=lfs -text
