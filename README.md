@@ -1,4 +1,4 @@
-# 📈 IPO WEB APPLICATION & REST API DEVELOPMENT
+# 📈 IPO Web Application and REST API Development
 
 ## 🧾 Project Overview
 
@@ -10,7 +10,7 @@ This project is developed as part of the Bluestock Fintech Internship Program an
 - **JWT-based authentication**
 - **PostgreSQL** as the primary database
 
-This solution is suitable for integration into stock market platforms, IPO tracking apps, or client-side fintech tools.
+This solution is suitable for integration into stock market platforms, IPO tracking apps or client-side fintech tools.
 
 ---
 
@@ -43,7 +43,7 @@ This solution is suitable for integration into stock market platforms, IPO track
   - Listing Date
   - Status Tags (Upcoming / Ongoing / Closed / Listed)
 - Includes search, filters (by date, sector), pagination.
-- Fully responsive across desktop, tablet, and mobile.
+- Fully responsive across desktop, tablet and mobile.
 - Pixel-perfect UI based on Figma design.
 
 ### 🔶 2. IPO Admin Dashboard
@@ -124,7 +124,3 @@ All REST APIs have been tested in Postman with authentication headers and payloa
 | 9  | Environment Configuration               | .env files created, all frameworks/libraries installed and configured.    |
 | 10 | REST API Development & JWT              | Backend routes secured and JWT authentication system operational.         |
 | 11 | Upcoming IPO UI Design                  | Fully responsive, Figma-matched, production-grade UI implemented.         |
-
----
-
-**© 2025 Bluestock Fintech Internship Program – All Rights Reserved**
