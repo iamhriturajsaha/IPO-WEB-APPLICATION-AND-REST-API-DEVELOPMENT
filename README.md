@@ -1,4 +1,4 @@
-# 📈 IPO Web Application and REST API Development
+# 📈IPO Web Application and REST API Development
 
 ## 🧾 Project Overview
 
