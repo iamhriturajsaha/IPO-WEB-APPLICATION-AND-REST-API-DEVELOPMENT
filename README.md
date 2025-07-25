@@ -14,7 +14,7 @@ This solution is suitable for integration into stock market platforms, IPO track
 
 ---
 
-## 🌐 Tech Stack
+## ⚙️ Tech Stack
 
 | Layer         | Technology                         |
 |--------------|-------------------------------------|
@@ -30,7 +30,7 @@ This solution is suitable for integration into stock market platforms, IPO track
 
 ## 🚀 Key Modules
 
-### 🔷 1. Upcoming IPO Webpage (User-Facing)
+### 1. Upcoming IPO Webpage (User-Facing)
 
 - Standalone module for displaying upcoming IPOs.
 - Uses REST API to fetch data dynamically.
@@ -46,7 +46,7 @@ This solution is suitable for integration into stock market platforms, IPO track
 - Fully responsive across desktop, tablet and mobile.
 - Pixel-perfect UI based on Figma design.
 
-### 🔶 2. IPO Admin Dashboard
+### 2. IPO Admin Dashboard
 
 - Admin login with static form validation + JWT token.
 - CRUD operations on IPO data -
@@ -58,7 +58,7 @@ This solution is suitable for integration into stock market platforms, IPO track
 - Data directly synced with backend via REST API.
 - Protected routes (JWT-secured) for sensitive operations.
 
-### ⚙️ 3. REST API Backend
+### 3. REST API Backend
 
 - Implemented using Django / NodeJS / Spring Boot.
 - Built using modular MVC or similar clean architecture.
