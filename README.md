@@ -12,7 +12,13 @@ This project is developed as part of the Bluestock Fintech Internship Program an
 
 This solution is suitable for integration into stock market platforms, IPO tracking apps or client-side fintech tools.
 
----
+### Quick Glance - 
+
+<p align="center">
+  <img src="Screenshots/1.png" alt="1" width="1000"/><br>
+  <img src="Screenshots/2.png" alt="2" width="1000"/><br>
+  <img src="Screenshots/3.png" alt="3" width="1000"/>
+</p>
 
 ## ⚙️ Tech Stack
 
